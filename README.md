@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm a frontend developer<br>🚀 I work with ReactJS, Redux and JavaScript<br>🚀 Some other stacks I use are Java, Python, MySQL, Firebase<br>🚀 Looking forward to learn some backend tool too<br>🚀 Currently working on NodeJS, ExpressJS and MongoDB<br>🚀 Will be delighted to work with frontend projects.
+🌱 A full-stack developer hanging between MERN and Django Developement.
 
 
 ## 🌐 Socials:
